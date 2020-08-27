@@ -5,7 +5,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-mit-yellow.svg?style=for-the-badge&logo=appveyor" />
   </a>
     <a href="#" target="_blank">
-    <img alt="Version" src="https://img.shields.io/badge/Scikit-learn-0.0.20-green.svg?style=for-the-badge&logo=appveyor" />
+    <img alt="Version" src="https://img.shields.io/badge/Sklearn-0.0.20-green.svg?style=for-the-badge&logo=appveyor" />
   </a>
 
 </p>
