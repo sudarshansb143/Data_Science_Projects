@@ -1,4 +1,4 @@
-<h1 align="center">Data Science Projects and Machine Learning Models  🚀🚀</h1>
+<h1 align="center">Data Science Projects and  <br> Machine Learning Models  🚀🚀</h1>
 <h3 align="center">Using python3 and Scikit Learn </h3>
 <p> 
   <a href="#" target="_blank">
@@ -16,7 +16,7 @@
 
 
 ### 🏠 
-_The Repo ❤️ Data Sciene and machine learning projects ❤️ is designed to provide the basis functionality of the machine learning models which can be scaled to create the real world applications using the web framewokrs. The repo consist of the several kind of code like Analaysis, Modeling and evaluation of model using third party API _
+_❤️Data Sciene and machine learning projects ❤️ is designed to provide the basis functionality of the machine learning models which can be scaled to create the real world applications using the web framewokrs. The repo consist of the several kind of code like Analaysis, Modeling and evaluation of model using third party API_
 
 
 ### ✨ 
