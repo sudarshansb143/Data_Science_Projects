@@ -26,14 +26,16 @@ _❤️Data Sciene and machine learning projects ❤️ is designed to provide t
 ```sh
 conda install <pkg-name>
 ```
-
-Paragraphs and Line Breaks
                     
 > "Anacond package installation", [Link](https://anaconda.org/)。
 
 
 ## Usage
 #### The jupyter notebook is the widely used tool and there are some notebooks which are created using google Colab. 
+
+ <a href="#" target="_blank">
+    <img alt="plots" src="https://i.pinimg.com/564x/87/02/42/870242a6739c0cdf4f80a7afd0b64cad.jpg" />
+  </a>
 
 ## Author
 
