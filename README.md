@@ -7,7 +7,9 @@
     <a href="#" target="_blank">
     <img alt="Version" src="https://img.shields.io/badge/Sklearn-0.0.20-green.svg?style=for-the-badge&logo=appveyor" />
   </a>
-  [Build Status]
+     <a href="#" target="_blank">
+    <img alt="Version" src="https://img.shields.io/badge/build_status-passing-green.svg?style=for-the-badge&logo=appveyor" />
+  </a>
 
 
 </p>
