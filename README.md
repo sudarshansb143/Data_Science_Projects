@@ -16,7 +16,7 @@
 
 
 ### 🏠 
-_❤️ Data Sciene and machine learning projects ❤️ is designed to provide the basis functionality of the machine learning models which can be scaled to create the real world applications using the web framewokrs. The repo consist of the several kind of code like Analaysis, Modeling and evaluation of model using third party API _
+_The Repo ❤️ Data Sciene and machine learning projects ❤️ is designed to provide the basis functionality of the machine learning models which can be scaled to create the real world applications using the web framewokrs. The repo consist of the several kind of code like Analaysis, Modeling and evaluation of model using third party API _
 
 
 ### ✨ 
