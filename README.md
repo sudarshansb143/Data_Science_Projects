@@ -1,4 +1,4 @@
-<h1 align="center">Data Science Projects and  <br> Machine Learning Models  🚀🚀</h1>
+<h1 align="center">Data Science Projects and  <br> Machine Learning Models</h1>
 <h3 align="center">Using python3 and Scikit Learn </h3>
 <p> 
   <a href="#" target="_blank">
@@ -40,8 +40,6 @@ conda install <pkg-name>
 ## Author
 
 👤 **Sudarshan Sawandkar**
-
-* Github: [@sudarshansb143](https://github.com/sudarshansb143)
 
 * Linked In : [@sudarshan-78jack](https://www.linkedin.com/in/sudarshan-78jack/)
 
