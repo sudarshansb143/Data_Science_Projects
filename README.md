@@ -4,19 +4,13 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-mit-yellow.svg?style=for-the-badge&logo=appveyor" />
   </a>
-    <a href="#" target="_blank">
-    <img alt="Version" src="https://img.shields.io/badge/Sklearn-0.0.20-green.svg?style=for-the-badge&logo=appveyor" />
-  </a>
-     <a href="#" target="_blank">
-    <img alt="Version" src="https://img.shields.io/badge/build_status-passing-green.svg?style=for-the-badge&logo=appveyor" />
-  </a>
-
-
 </p>
 
 
-### 🏠 
-_❤️Data Sciene and machine learning projects ❤️ is designed to provide the basis functionality of the machine learning models which can be scaled to create the real world applications using the web framewokrs. The repo consist of the several kind of code like Analaysis, Modeling and evaluation of model using third party API_
+###  
+_❤️ Data Sciene and machine learning projects❤️ is designed to provide the short overview of the functionality provided by machine learning models which can be scaled. The repo consist of the several machine learning models which uses popular algorithms like KNN, Random Forest, SGD Regression and many more 
+
+
 
 
 ### ✨ 
